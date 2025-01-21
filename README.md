@@ -11,8 +11,8 @@
 - <strong>Reinicio automatico al perder:</strong> cuando el usuario falla el numero maximo de intentos el juego despliega un mensaje indicando que debe jugar de nuevo, y se reinicia el juego nuevamente.
 
 ## Proximas mejoras
--Implementar niveles de dificultad
--Interfaz para moviles
+- Implementar niveles de dificultad
+- Interfaz para moviles
 
 ## Tecnologias
 - JavaScript
